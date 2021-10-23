@@ -23,4 +23,6 @@ wecart API is represented in JSON format, example:
 ```
 
 ## register
-/register.php?buyer&name={FULL_NAME_HERE}&username={USERNAME}&password={PASSWORD}&brgy={BARANGAY}&sitio={SITIO}&street={STREET}&contact_num={CONTACT_NUMBER}&contact_email={CONTACT_EMAIL}
+```
+/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
+```
