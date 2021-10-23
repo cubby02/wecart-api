@@ -18,6 +18,6 @@ wecart API is represented in JSON format, example:
         "sitio": "Villa Chuchu",
         "street": "Bulag Street",
         "contact_num": "09123456789",
-        "contact_email": "dan*****@gmail.com"
+        "contact_email": " redacted@gmail.com"
     },
 ```
