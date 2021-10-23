@@ -23,6 +23,9 @@ wecart API is represented in JSON format, example:
 ```
 
 <ins>We use a termporary API Server at the moment</ins>. Paki copy paste nalang ng maigi thankyou.
+<del><p>Test</p>
+
+<p>Test</p></del>
 
 Live API available at: https://wecart.gq/
 
