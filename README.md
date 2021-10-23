@@ -24,7 +24,7 @@ wecart API is represented in JSON format, example:
 
 We use a termporary API Server at the moment. Paki copy paste nalang ng maigi thankyou.
 
-API Link may vary from: *.ngrok.io
+API server may vary from: *.ngrok.io
 
 ## register user
 ```
