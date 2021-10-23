@@ -22,38 +22,38 @@ wecart API is represented in JSON format, example:
     },
 ```
 
-We use a termporary API Server at the moment. Paki copy paste nalang ng maigi thankyou.
+<u>We use a termporary API Server at the moment</u>. Paki copy paste nalang ng maigi thankyou.
 
-Our API server may vary from: *.ngrok.io
+Live API available at: https://wecart.gq/
 
 ## register user
 ```
-https://*.ngrok.io/wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
+https://wecart.gq/wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
 ```
 
 ## register seller
 ```
-https://*.ngrok.io/wecart-api/register.php?seller&store_name=[STORE_NAME]&description=[STORE_DESCRPITION]&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
+https://wecart.gq/wecart-api/register.php?seller&store_name=[STORE_NAME]&description=[STORE_DESCRPITION]&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
 ```
 ## Login
 ```
-https://*.ngrok.io/wecart-api/login.php?username=[USERNAME]&password=[PASSWORD]
+https://wecart.gq/wecart-api/login.php?username=[USERNAME]&password=[PASSWORD]
 ```
 ## change password
 ```
-https://*.ngrok.io/wecart-api/changepass.php?username=[USERNAME]&oldpass=[CONFIRM_OLD_PASSWORD]&newpass=[NEW_PASSWORD]
+https://wecart.gq/wecart-api/changepass.php?username=[USERNAME]&oldpass=[CONFIRM_OLD_PASSWORD]&newpass=[NEW_PASSWORD]
 
 ```
 ## show user profile-info
 ```
-https://*.ngrok.io/wecart-api/profile_info.php?username=[USERNAME]
+https://wecart.gq/wecart-api/profile_info.php?username=[USERNAME]
 
 ```
 ## show all registered users/sellers
 ```
-https://*.ngrok.io/wecart-api/showusers.php
+https://wecart.gq/wecart-api/showusers.php
 ```
 ## show all available stores
 ```
-https://*.ngrok.io/wecart-api/showusers.php?storelist
+https://wecart.gq/wecart-api/showusers.php?storelist
 ```
