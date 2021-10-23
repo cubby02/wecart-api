@@ -22,6 +22,9 @@ wecart API is represented in JSON format, example:
     },
 ```
 
+We use a termporary API link at the moment. Paki copy paste nalang ng maigi thankyou.
+API Link may vary from: *.ngrok.io
+
 ## register user
 ```
 wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
