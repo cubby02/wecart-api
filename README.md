@@ -35,7 +35,7 @@ wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password
 ```
 /wecart-api/login.php?username=[USERNAME]&password=[PASSWORD]
 ```
-## Change Password
+## change password
 ```
 /wecart-api/changepass.php?username=[USERNAME]&oldpass=[CONFIRM_OLD_PASSWORD]&newpass=[NEW_PASSWORD]
 
