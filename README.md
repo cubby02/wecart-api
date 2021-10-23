@@ -1,6 +1,6 @@
 # wecart-api
 
-description: A comprehensive documentation of wecart api.
+**description:** A comprehensive documentation of wecart-api.
 
 #Format
 API is represented via JSON, example:
