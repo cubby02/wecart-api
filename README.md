@@ -26,15 +26,6 @@ We use a termporary API Server at the moment. Paki copy paste nalang ng maigi th
 
 API server may vary from: *.ngrok.io
 
-## show all registered users/sellers
-```
-https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php
-```
-## show all available store
-```
-https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php?sellerlist
-```
-
 ## register user
 ```
 https://*.ngrok.io/wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
@@ -57,4 +48,12 @@ https://*.ngrok.io/wecart-api/changepass.php?username=[USERNAME]&oldpass=[CONFIR
 ```
 https://*.ngrok.io/wecart-api/profile_info.php?username=[USERNAME]
 
+```
+## show all registered users/sellers
+```
+https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php
+```
+## show all available store
+```
+https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php?sellerlist
 ```
