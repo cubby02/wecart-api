@@ -19,7 +19,8 @@ wecart API is represented in JSON format, example:
         "street": "Bulag Street",
         "contact_num": "09123456789",
         "contact_email": "redacted@gmail.com"
-    },
+    }
+]
 ```
 
 ~~We use a termporary API Server at the moment.~~ Paki copy paste nalang ng maigi thankyou.
