@@ -31,7 +31,16 @@ wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password
 ```
 /wecart-api/register.php?seller&store_name={STORE_NAME}&description={STORE_DESCRPITION}&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
 ```
-## show user profile info
+## Login
+```
+/wecart-api/login.php?username=[USERNAME]&password=[PASSWORD]
+## Change Password
+```
+/wecart-api/changepass.php?username=[USERNAME]&oldpass=[CONFIRM_OLD_PASSWORD]&newpass=[NEW_PASSWORD]
+```
+
+```
+## show user profile-info
 ```
 /wecart-api/profile_info.php?username=[USERNAME]
 
