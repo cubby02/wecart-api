@@ -2,7 +2,7 @@
 
 **description:** A comprehensive documentation of wecart-api.
 
-##Format
+### Format
 
 wecart API is represented in JSON format, example:
 ```
