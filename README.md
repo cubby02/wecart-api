@@ -9,7 +9,7 @@ wecart API is represented in JSON format, example:
 [
     {
         "acc_type": "seller",
-        "store_name": "apple",
+        "store_name": "Apple",
         "description": "Gadget Store",
         "full_name": "Dan",
         "username": "Danjej3m0n",
