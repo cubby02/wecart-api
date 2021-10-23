@@ -55,5 +55,5 @@ https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php
 ```
 ## show all available store
 ```
-https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php?sellerlist
+https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php?storelist
 ```
