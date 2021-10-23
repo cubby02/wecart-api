@@ -21,3 +21,6 @@ wecart API is represented in JSON format, example:
         "contact_email": " redacted@gmail.com"
     },
 ```
+
+## register
+/register.php
