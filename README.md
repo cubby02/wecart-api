@@ -2,21 +2,22 @@
 
 **description:** A comprehensive documentation of wecart-api.
 
-#Format
-API is represented via JSON, example:
+##Format
+
+wecart API is represented in JSON format, example:
 ```
 [
     {
-        "acc_type": "buyer",
-        "store_name": null,
+        "acc_type": "seller",
+        "store_name": "apple",
         "description": null,
-        "full_name": "dan",
-        "username": "dan",
+        "full_name": "Dan",
+        "username": "Danjej3m0n",
         "password": "0a113ef6b61820daa5611c870ed8d5ee",
-        "brgy": "poblacion 4",
-        "sitio": "villa orense",
-        "street": "mary street",
-        "contact_num": "09386670544",
-        "contact_email": "danlyt74@gmail.com"
+        "brgy": "Bauan",
+        "sitio": "Villa Chuchu",
+        "street": "Bulag Street",
+        "contact_num": "09123456789",
+        "contact_email": "dan*****@gmail.com"
     },
 ```
