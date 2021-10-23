@@ -51,9 +51,9 @@ https://*.ngrok.io/wecart-api/profile_info.php?username=[USERNAME]
 ```
 ## show all registered users/sellers
 ```
-https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php
+https://*.ngrok.io/wecart-api/showusers.php
 ```
-## show all available store
+## show all available stores
 ```
-https://89e2-112-198-216-228.ngrok.io/wecart-api/showusers.php?storelist
+https://*.ngrok.io/wecart-api/showusers.php?storelist
 ```
