@@ -57,6 +57,10 @@ https://wecart.gq/wecart-api/changepass.php?username=[USERNAME]&oldpass=[CONFIRM
 https://wecart.gq/wecart-api/profile_info.php?username=[USERNAME]
 
 ```
+# upload user profile photo
+```
+POST: username,image => https://wecart.gq/wecart-api/upload_user_profile.php
+```
 ## show all registered users/sellers
 ```
 https://wecart.gq/wecart-api/showusers.php
@@ -76,10 +80,6 @@ https://wecart.gq/wecart-api/showusers.php?isactive
 # show online agents
 ```
 https://wecart.gq/wecart-api/showusers.php?agents=isactive
-```
-# upload user profile photo
-```
-POST: username,image => https://wecart.gq/wecart-api/upload_user_profile.php
 ```
 # Seller: add product
 ```
