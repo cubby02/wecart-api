@@ -87,5 +87,5 @@ https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[P
 ```
 # Seller: add product (image upload script)
 ```
-https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[PRODUCT_NAME]&description=[DESCRIPTION]&stock=[STOCK]&price=[PRICE]
+https://wecart.gq/wecart-api/product_image.php
 ```
