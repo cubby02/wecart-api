@@ -97,7 +97,7 @@ https://wecart.gq//wecart-api/showproducts.php
 ```
 https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]
 ```
-# show all products from specific seller (DEPENDING ON PRODUCT TYPE)
+# show all products from specific seller (product type)
 ```
 https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]&product_type=[product_type]
 ```
