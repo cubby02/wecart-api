@@ -70,8 +70,12 @@ https://wecart.gq/wecart-api/showusers.php?storelist
 ```
 https://wecart.gq/wecart-api/showusers.php?agents
 ```
-# show all active users
+# show all online users
 ```
 https://wecart.gq/wecart-api/showusers.php?isactive
+```
+# show all online agents
+```
+https://wecart.gq/wecart-api/showusers.php?agents=isactive
 ```
 
