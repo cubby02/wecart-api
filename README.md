@@ -89,3 +89,11 @@ https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[P
 ```
 https://wecart.gq/wecart-api/product_image_upload.php
 ```
+# show all products
+```
+https://wecart.gq//wecart-api/showproducts.php
+```
+# show all products from specific seller
+```
+https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]
+```
