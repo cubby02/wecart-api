@@ -77,4 +77,8 @@ https://wecart.gq/wecart-api/showusers.php?isactive
 ```
 https://wecart.gq/wecart-api/showusers.php?agents=isactive
 ```
+# upload user profile photo
+```
+POST: username,image => https://wecartph.000webhostapp.com/wecart-api/upload_user_profile.php
+```
 
