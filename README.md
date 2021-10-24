@@ -91,13 +91,13 @@ https://wecart.gq/wecart-api/product_image_upload.php
 ```
 # show all products
 ```
-https://wecart.gq//wecart-api/showproducts.php
+https://wecart.gq/wecart-api/showproducts.php
 ```
 # show all products from specific seller
 ```
-https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]
+https://wecart.gq/wecart-api/showproducts.php?seller=[SELLER_USERNAME]
 ```
 # show product type from specific seller 
 ```
-https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]&product_type=[product_type]
+https://wecart.gq/wecart-api/showproducts.php?seller=[SELLER_USERNAME]&product_type=[product_type]
 ```
