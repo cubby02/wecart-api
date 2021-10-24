@@ -79,6 +79,9 @@ https://wecart.gq/wecart-api/showusers.php?agents=isactive
 ```
 # upload user profile photo
 ```
-POST: username,image => https://wecartph.000webhostapp.com/wecart-api/upload_user_profile.php
+POST: username,image => https://wecart.gq/wecart-api/upload_user_profile.php
 ```
-
+# Seller: add product
+```
+https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[PRODUCT_NAME]&description=[DESCRIPTION]&stock=[STOCK]&price=[PRICE]
+```
