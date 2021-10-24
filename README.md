@@ -61,7 +61,7 @@ https://wecart.gq/wecart-api/profile_info.php?username=[USERNAME]
 ```
 https://wecart.gq/wecart-api/showusers.php
 ```
-## show all available stores/seller
+## show all available stores
 ```
 https://wecart.gq/wecart-api/showusers.php?storelist
 ```
