@@ -83,7 +83,7 @@ https://wecart.gq/wecart-api/showusers.php?agents=isactive
 ```
 # Seller: add product
 ```
-https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[PRODUCT_NAME]&description=[DESCRIPTION]&stock=[STOCK]&price=[PRICE]
+https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[PRODUCT_NAME]&product_type=[PRODUCT_TYPE]&description=[DESCRIPTION]&stock=[STOCK]&price=[PRICE]
 ```
 # Seller: add product (product imgage)
 ```
@@ -96,4 +96,8 @@ https://wecart.gq//wecart-api/showproducts.php
 # show all products from specific seller
 ```
 https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]
+```
+# show all products from specific seller (DEPENDING ON PRODUCT TYPE)
+```
+https://wecartph.000webhostapp.com/wecart-api/showproducts.php?seller=[SELLER_USERNAME]&product_type=[product_type]
 ```
