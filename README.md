@@ -85,7 +85,7 @@ https://wecart.gq/wecart-api/showusers.php?agents=isactive
 ```
 https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[PRODUCT_NAME]&description=[DESCRIPTION]&stock=[STOCK]&price=[PRICE]
 ```
-# Seller: add product (image upload script)
+# Seller: add product (product imgage)
 ```
 https://wecart.gq/wecart-api/product_image.php
 ```
