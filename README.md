@@ -31,14 +31,13 @@ Live API is now available at: https://wecart.gq/
 ```
 https://wecart.gq/wecart-api/register.php?buyer&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
 ```
-
-## register seller
-```
-https://wecart.gq/wecart-api/register.php?seller&store_name=[STORE_NAME]&description=[STORE_DESCRPITION]&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
-```
 ## register agent
 ```
 https://wecart.gq/wecart-api/register.php?agent&name=[AGENT_NAME]&username=[AGENT_USERNAME]&password=[AGENT_PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[AGENT_CONTACT_NUMBER]&contact_email=[AGENT_CONTACT_EMAIL]
+```
+## register seller
+```
+https://wecart.gq/wecart-api/register.php?seller&store_name=[STORE_NAME]&description=[STORE_DESCRPITION]&name=[FULL_NAME_HERE]&username=[USERNAME]&password=[PASSWORD]&brgy=[BARANGAY]&sitio=[SITIO]&street=[STREET]&contact_num=[CONTACT_NUMBER]&contact_email=[CONTACT_EMAIL]
 ```
 ## Login
 ```
