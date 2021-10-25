@@ -59,7 +59,7 @@ https://wecart.gq/wecart-api/profile_info.php?username=[USERNAME]
 ```
 # upload user profile photo
 ```
-POST: username,image => https://wecart.gq/wecart-api/upload_user_profile.php
+POST: image => https://wecart.gq/wecart-api/upload_user_profile.php
 ```
 ## show all registered users/sellers
 ```
@@ -87,7 +87,7 @@ https://wecart.gq/wecart-api/add_product.php?username=[USERNAME]&product_name=[P
 ```
 # Seller: add product (product image)
 ```
-https://wecart.gq/wecart-api/product_image_upload.php
+POST: image => https://wecart.gq/wecart-api/product_image_upload.php
 ```
 # show all products
 ```
